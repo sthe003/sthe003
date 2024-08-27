@@ -1,5 +1,4 @@
 ## Welcome to my profile :yellow_heart:
- I am a systems development student and I dedicate this profile to my studies 
 
 <div align="center">
   <a href="https://github.com/sfpr03">
