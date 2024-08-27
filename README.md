@@ -1,7 +1,7 @@
 ## Welcome to my profile :yellow_heart:
 
 <div align="center">
-  <a href="https://github.com/sfpr03">
+  <a href="https://github.com/sthe003">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=sthe003&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthe003&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
