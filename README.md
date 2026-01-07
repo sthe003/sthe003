@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthe003&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&format=png)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthe003&layout=compact&langs_count=7&theme=highcontrast&format=png)
+![Repos](https://img.shields.io/badge/Repos-Active-success?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/sthe003?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sthe003?style=for-the-badge)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
   <img height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
