@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthe003&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthe003&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&format=png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthe003&layout=compact&langs_count=7&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthe003&layout=compact&langs_count=7&theme=highcontrast&format=png)
 
 </div>
 
